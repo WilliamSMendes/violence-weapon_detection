@@ -13,6 +13,7 @@ To address the detection of weapons, we utilize Darknet, an open-source neural n
 
 # MobileNet Bi-LSTM for Violence Detection
 The MobileNet Bi-LSTM model is employed for the detection of violence in the security camera footage. MobileNet is a lightweight deep learning model that exhibits excellent performance in terms of accuracy and efficiency on mobile and embedded devices. The Bi-LSTM component enhances the model's ability to capture temporal dependencies and contextual information, improving the accuracy of violence detection in sequential data.
+![fight](fight_gif.gif)
 ![frame by frame violence detection](fight_frames.png)
 
 
