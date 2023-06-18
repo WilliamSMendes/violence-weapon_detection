@@ -1,5 +1,6 @@
 # Motivation
 The motivation behind this project is to develop an effective computer vision system for the detection of violence and weapons in security camera footage. The goal is to enhance the safety and security measures in various environments, with a specific focus on implementing this proof of concept in school settings. By leveraging advanced deep learning models, we aim to detect potential threats and provide timely alerts for human validation and automatic triggering of emergency services, contributing to a safer learning environment for students.
+![scarface](scarface_with_weapon.png)
 
 # Data Source
 The data used for training the YOLOv7 custom model was obtained from the Open Images dataset, which is a publicly available collection of diverse labeled images. The dataset provides a wide range of annotated images that include instances of weapons, enabling the development and training of accurate detection models. The dataset can be accessed and downloaded from the following link: [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html).
